@@ -9,3 +9,11 @@ nano q3s.py
 python3 q3s.py
 nano q3s.py
 python3 q3s.py
+git init
+git add .
+git commit -m "Add all my files"
+git remote add origin https://github.com/MuhdRazin/Skill-Based.git
+git push origin master
+git remote add origin git@github.com:MuhdRazin/Skill-Based.git
+git push origin master
+exit
